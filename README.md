@@ -52,3 +52,5 @@ open up you local host and port
 
 
 
+URI: 025066285828.dkr.ecr.eu-north-1.amazonaws.com/kidney_disease
+
